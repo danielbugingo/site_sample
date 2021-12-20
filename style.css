@@ -83,6 +83,7 @@ section > div > h1{
 ::placeholder {
     color: rgb(146, 146, 156);
     font-size: 1em;
+    padding-left: 10px;
   }
 
 input[type=text]:focus {
